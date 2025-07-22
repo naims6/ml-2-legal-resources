@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+.container {
+  margin-inline: auto;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+footer p {
+  color: #cfcfcf;
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 12px;
+}
+footer h1 {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 48px;
+}
+footer ul li {
+  color: #cfcfcf;
+  padding: 15px 0px;
+}
