@@ -29,3 +29,9 @@ footer ul li {
   color: #cfcfcf;
   padding: 15px 0px;
 }
+
+@media screen and (max-width: 768px) {
+  footer h1 {
+    margin-bottom: 24px;
+  }
+}
